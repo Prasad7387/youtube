@@ -11,7 +11,7 @@ html,body{
 #bg{
     height: 100%;
     width: 100px;
-    background-image: url(./pubg-2.jpg);
+    background-image: url(./pubg-2.webp);
     background-size: cover;
 }
 
